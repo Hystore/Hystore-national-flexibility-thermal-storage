@@ -6,7 +6,7 @@ This repository is part of the **HYSTORE Open Source Project**, funded by the Eu
 
 ### 1. Repository Maintainers
 The day-to-day management of **this specific repository** is handled by its designated **Maintainers**.
-- **Current Lead Partner:** [Insert Partner Name]
+- **Current Lead Partner:** KTH
 - **Role:** Maintainers are responsible for technical oversight, code quality, and reviewing Pull Requests (PRs).
 - **Scope:** They have the authority to merge technical fixes and minor updates that align with the established WP4 technical specifications.
 
